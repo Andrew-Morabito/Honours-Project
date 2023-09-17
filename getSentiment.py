@@ -38,7 +38,7 @@ inputHeadlines.to(torch.device(checkGPU))
 # Run the model to return the sentiments from each headline.
 sentimentOutput = model(**inputHeadlines)
 
-# Apply softmax to the sentiment results so that the elements are scaled correctly.
+# Apply softmax to the sentiment results, ensuring the elements are scaled correctly.
 predictions = torch.nn.functional.softmax(sentimentOutput.logits, dim = -1)
 
 # To fix up.
