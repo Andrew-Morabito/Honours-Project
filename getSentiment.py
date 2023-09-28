@@ -11,13 +11,11 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 
 # To run FinBERT with the GPU.
-'''
 if torch.cuda.is_available():
 	checkGPU = "cuda:0"
 else:
 	checkGPU = "cpu"
-'''
-checkGPU = "cpu"
+
 # Initialise the FinBERT tonkenizer and model.
 tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
 model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
@@ -35,23 +33,27 @@ for index, row in dataframe.iterrows():
 inputHeadlines = tokenizer(headlines, padding = True, truncation = True, return_tensors = "pt")
 inputHeadlines.to(torch.device(checkGPU))
 
-# Run the model to return the sentiments from each headline.
+# Run the model. This will return a list of logits.
 sentimentOutput = model(**inputHeadlines)
 
-# Apply softmax to the sentiment results, ensuring the elements are scaled correctly.
+# Apply softmax to correctly scale the results from the list of logits.
 predictions = torch.nn.functional.softmax(sentimentOutput.logits, dim = -1)
+predictions = predictions.tolist()
 
-# To fix up.
-positive = predictions[:, 0].tolist()
-negative = predictions[:, 1].tolist()
-neutral = predictions[:, 2].tolist()
+# FinBERT returns confidence scores in the order of positive, negative, and neutral.
+positive = [score[0] for score in predictions]
+negative = [score[1] for score in predictions]
+neutral = [score[2] for score in predictions]
 
+# Placing the predictions into a dataframe.
 table = {
-	"Headline": headlines,
 	"Positive": positive,
 	"Negative": negative, 
 	"Neutral": neutral
 }
 
-exampledf = pd.DataFrame(table, columns = ["Headline", "Positive", "Negative", "Neutral"])
-print(exampledf.head(5))
+predictiondf = pd.DataFrame(table, columns = ["Positive", "Negative", "Neutral"])
+dataframe = pd.concat([dataframe, predictiondf], axis = 1)
+
+# Saving the dataframe.
+dataframe.to_csv("asx200sentiment.csv", index = False)
