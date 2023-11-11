@@ -1,9 +1,6 @@
-import json
-import feedparser
+import yfinance
 import pandas as pd
-from datetime import datetime
 
-# ASX 200 ticker references for Yahoo Finance.
 tickers = ['A2M.AX', 'AAA.AX', 'ABC.AX', 'ABP.AX', 'AFI.AX', 'AGL.AX', 'AIA.AX', 'ALD.AX', 'ALL.AX', 'ALQ.AX', 
 		   'ALU.AX', 'ALX.AX', 'AMC.AX', 'AMP.AX', 'ANN.AX', 'ANZ.AX', 'APA.AX', 'APE.AX', 'APT.AX', 'APX.AX', 
 		   'ARB.AX', 'ARG.AX', 'AST.AX', 'ASX.AX', 'AWC.AX', 'AZJ.AX', 'BAP.AX', 'BEN.AX', 'BGA.AX', 'BHP.AX', 
@@ -30,46 +27,7 @@ tickers = ['A2M.AX', 'AAA.AX', 'ABC.AX', 'ABP.AX', 'AFI.AX', 'AGL.AX', 'AIA.AX',
 		   'HYGG.AX', 'SQ2.AX', 'HBRD.AX', 'AIZ.AX', 'PXA.AX', 'NABPI.AX', 'LOV.AX', 'GOR.AX', 'IAF.AX', 'VDHG.AX', 
 		   'DDR.AX', 'NABPF.AX', 'APM.AX', 'RMS.AX', 'MVW.AX', 'CIP.AX', 'CEN.AX', 'IVC.AX', 'CBAPL.AX', 'MXT.AX']
 
-# Dictionary for storing data before converting to a DataFrame.
-dataDict = {
-	"Company": [],
-	"Date": [],
-	"Title": []
-}
-
-# Request header for accessing Yahoo Finance services.
-headers = {
-  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'
-}
-
-# Retrieve data.
-for ticker in tickers:
-	RSSfeed = "https://feeds.finance.yahoo.com/rss/2.0/headline?s=%s&region=US&lang=en-US" % ticker
-	newsfeed = feedparser.parse(RSSfeed)
-	company = ticker.split(".")[0]
-
-	# Checking if any data actually exists for the company.
-	try:
-		checkEntries = newsfeed.entries[0]
-
-		for entry in newsfeed.entries:
-			date = datetime.strptime(entry.published, "%a, %d %b %Y %H:%M:%S %z").strftime("%d/%m/%Y")
-			title = '"{}"'.format(entry.title)
-
-			dataDict["Company"].append(company)
-			dataDict["Date"].append(date)
-			dataDict["Title"].append(title)
-
-	# If no	data.	
-	except IndexError:
-		date = "No data for this company"
-		title = '"' + "No data for this company" +'"'
-
-		dataDict["Company"].append(company)
-		dataDict["Date"].append(date)
-		dataDict["Title"].append(title)
-
-dataframe = pd.DataFrame(dataDict)
-dataframe = dataframe.sort_values(by = ["Company"])
-
-dataframe.to_csv("asx200data_test.csv", index = False)
+stockData = yfinance.download(tickers, start = "2022-10-12", end = "2023-10-19")["Adj Close"]
+stockData = stockData.dropna(axis = "columns", how = "all")
+stockData.to_csv("stockdata_2023.csv")
+print(stockData)

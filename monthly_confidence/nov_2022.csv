@@ -1,0 +1,154 @@
+Company,Date,Title,Positive,Negative,Neutral,ConfidenceScore
+A2M,2022-11-02,"""UPDATE 1-NZ's a2 Milk gets temporary approval to export infant milk formula to U.S.""",0.9323298335075378,0.015344358049333,0.0523257777094841,0.2741181204402524
+A2M,2022-11-05,"""Has The a2 Milk Company Limited (NZSE:ATM) Stock's Recent Performance Got Anything to Do With Its Financial Health?""",0.0162512920796871,0.8292028307914734,0.1545458287000656,-0.251590981138805
+ABC,2022-11-16,"""Is It Too Late To Consider Buying Adbri Limited (ASX:ABC)?""",0.0288029182702302,0.0805404335260391,0.8906566500663757,0.16061824152319215
+AFI,2022-11-13,"""Those who invested in Australian Foundation Investment (ASX:AFI) five years ago are up 46%""",0.911798357963562,0.0129274381324648,0.0752741917967796,0.3096679416401724
+AIA,2022-11-04,"""Should You Think About Buying Auckland International Airport Limited (NZSE:AIA) Now?""",0.0467069670557975,0.0176085252314806,0.9356845021247864,0.14040022142512332
+ALQ,2022-11-19,"""ALS Limited (ASX:ALQ) Is About To Go Ex-Dividend, And It Pays A 3.1% Yield""",0.0363732613623142,0.1228473260998725,0.8407793641090393,0.1638978488333853
+ALU,2022-11-14,"""Keysight Licenses Simulation Software Technology to Altium for PCB Design Solutions""",0.136746272444725,0.0080519551411271,0.8552017211914062,0.1479397449229659
+ANN,2022-11-08,"""Ansell Limited's (ASX:ANN) Intrinsic Value Is Potentially 32% Above Its Share Price""",0.196027010679245,0.0192787144333124,0.7846943140029907,0.12345516405508451
+ANZ,2022-11-08,"""Australia and New Zealand Banking Group Full Year 2022 Earnings: EPS Beats Expectations""",0.7059756517410278,0.1538165658712387,0.1402078121900558,0.22214087281955663
+APA,2022-11-17,"""Those who invested in APA Group (ASX:APA) five years ago are up 56%""",0.8816719651222229,0.010657949373126,0.1076700985431671,0.3255744538130687
+APE,2022-11-24,"""At AU$12.20, Is It Time To Put Eagers Automotive Limited (ASX:APE) On Your Watch List?""",0.0485680513083934,0.0241432934999465,0.9272885918617249,0.22296577549197008
+ASX,2022-11-30,"""IBM and Australian Stock Market’s Blockchain Projects Failed, a Blow to Private Ledgers""",0.010190300643444,0.9611295461654664,0.0286801140755414,-1.3866168299047785
+ASX,2022-11-17,"""Australian Securities Exchange Cancels Blockchain-Based Clearing System at $168M Cost""",0.0122332908213138,0.934867799282074,0.0528989136219024,-0.3452180461431517
+ASX,2022-11-16,"""Bourse operator ASX flags $172 million hit from clearing software replacement halt""",0.0146432863548398,0.9639215469360352,0.0214352831244468,-0.34766120889265906
+AUB,2022-11-17,"""A number of insiders bought AUB Group Limited (ASX:AUB) stock last year, which is great news for shareholders""",0.8824783563613892,0.0149685824289917,0.1025531217455864,0.32587222940040383
+AZJ,2022-11-17,"""Shareholders in Aurizon Holdings (ASX:AZJ) are in the red if they invested three years ago""",0.0220521856099367,0.2251642942428589,0.752783477306366,0.13898994136075724
+AZJ,2022-11-02,"""Aurizon Holdings Limited (ASX:AZJ) insiders placed bullish bets worth AU$4.5m in the last 12 months""",0.0275455601513385,0.9077032804489136,0.0647512003779411,-0.2668775665131559
+BAP,2022-11-28,"""Bapcor (ASX:BAP) shareholders have earned a 7.4% CAGR over the last five years""",0.7247830033302307,0.0120336199179291,0.2631833255290985,0.5228204223125664
+BAP,2022-11-08,"""Bapcor Limited (ASX:BAP) is a favorite amongst institutional investors who own 53%""",0.2064853757619857,0.0078319227322936,0.7856826782226562,0.1236106623997361
+BEN,2022-11-01,"""This Is Why Bendigo and Adelaide Bank Limited's (ASX:BEN) CEO Compensation Looks Appropriate""",0.154926910996437,0.0291611608117818,0.8159118890762329,0.11879949465312024
+BGA,2022-11-17,"""Is There An Opportunity With Bega Cheese Limited's (ASX:BGA) 49% Undervaluation?""",0.2118681222200393,0.0333638042211532,0.7547680735588074,0.13935636666772414
+BOQ,2022-11-29,"""Investors five-year losses continue as Bank of Queensland (ASX:BOQ) dips a further 3.8% this week, earnings continue to decline""",0.0096657071262598,0.975522518157959,0.0148118063807487,-0.8879588624851654
+BPT,2022-11-28,"""Those who invested in Beach Energy (ASX:BPT) five years ago are up 61%""",0.8302801847457886,0.0110023571178317,0.1587174534797668,0.5989205525405608
+BRG,2022-11-18,"""Breville Group Limited (ASX:BRG) Shares Could Be 25% Above Their Intrinsic Value Estimate""",0.0487911663949489,0.8405501246452332,0.1106586903333664,-0.3185039276004568
+BSL,2022-11-13,"""Those who invested in BlueScope Steel (ASX:BSL) five years ago are up 34%""",0.8543001413345337,0.0099351499229669,0.1357646733522415,0.29014020918048805
+BSL,2022-11-16,"""Shareholders May Not Be So Generous With BlueScope Steel Limited's (ASX:BSL) CEO Compensation And Here's Why""",0.055081058293581,0.0841631591320037,0.8607557415962219,0.15522600497719644
+CAR,2022-11-27,"""Is Now An Opportune Moment To Examine carsales.com Ltd (ASX:CAR)?""",0.0382011570036411,0.031036090105772,0.9307627081871032,0.28915769319098045
+CDA,2022-11-03,"""Insider Buying: The Codan Limited (ASX:CDA) Independent Non-Executive Director Just Bought 94% More Shares""",0.2957234978675842,0.011341311968863,0.6929351687431335,0.10289193520990951
+CDA,2022-11-17,"""Is There An Opportunity With Codan Limited's (ASX:CDA) 23% Undervaluation?""",0.214308813214302,0.0595823526382446,0.7261087894439697,0.13406486872888
+CEN,2022-11-09,"""Is The Market Rewarding Contact Energy Limited (NZSE:CEN) With A Negative Sentiment As A Result Of Its Mixed Fundamentals?""",0.0156191010028123,0.9502391815185548,0.0341416411101818,-0.3030588213784881
+CGF,2022-11-24,"""The past five years for Challenger (ASX:CGF) investors has not been profitable""",0.0887653902173042,0.0134797301143407,0.8977548480033875,0.21586441119141872
+CHC,2022-11-10,"""Those who invested in Charter Hall Group (ASX:CHC) five years ago are up 150%""",0.9028773307800292,0.0099734794348478,0.0871491879224777,0.292094768804965
+CHC,2022-11-24,"""Jacqueline Chow Is The Independent Non-Executive Director of Charter Hall Group (ASX:CHC) And They Just Picked Up 82% More Shares""",0.1142671927809715,0.0082923592999577,0.8774404525756836,0.21097983160105108
+CIP,2022-11-22,"""Centuria Industrial REIT (ASX:CIP) is largely controlled by institutional shareholders who own 63% of the company""",0.028780622407794,0.0164845362305641,0.9547348618507384,0.20731804109121957
+CMW,2022-11-20,"""Great news for Cromwell Property Group (ASX:CMW): Insiders acquired stock in large numbers last year""",0.8423395156860352,0.0899013504385948,0.06775913387537,0.33898235805272575
+COH,2022-11-01,"""FDA approves Cochlear's Nucleus 8 Sound Processor, smaller, smarter, better connected cochlear implant technology""",0.8690829873085022,0.0081188604235649,0.1227981299161911,0.2530827680934247
+COH,2022-11-01,"""The Independent Non-Executive Chairman of the Board of Cochlear Limited (ASX:COH), Catriona Deans, Just Bought 13% More Shares""",0.1278104931116104,0.0104639660567045,0.8617255687713623,0.12547011934783256
+COH,2022-11-16,"""Those who invested in Cochlear (ASX:COH) five years ago are up 21%""",0.9334006309509276,0.0132012693211436,0.0533980578184127,0.3366531153588832
+CPU,2022-11-28,"""A Note On Computershare Limited's (ASX:CPU) ROE and Debt To Equity""",0.0287901498377323,0.0245612915605306,0.9466485977172852,0.34143130934780463
+CSR,2022-11-29,"""Calculating The Intrinsic Value Of CSR Limited (ASX:CSR)""",0.0406001545488834,0.0167031101882457,0.942696750164032,0.42903978040647067
+CSR,2022-11-07,"""CSR (ASX:CSR) Is Paying Out A Larger Dividend Than Last Year""",0.910552740097046,0.0531539097428321,0.0362932942807674,0.28287911359063667
+CTD,2022-11-17,"""Investors in Corporate Travel Management (ASX:CTD) have unfortunately lost 30% over the last year""",0.0115027483552694,0.9727600812911988,0.0157371927052736,-0.3592105053648095
+CWY,2022-11-18,"""Is It Time To Consider Buying Cleanaway Waste Management Limited (ASX:CWY)?""",0.0616595633327961,0.0127591416239738,0.9255812764167786,0.17536210108624598
+DDR,2022-11-21,"""Is Dicker Data Limited (ASX:DDR) A High Quality Stock To Own?""",0.1153073459863662,0.0094004860147833,0.8752921223640442,0.1825125834921407
+DDR,2022-11-07,"""Insiders hold 64% of Dicker Data Limited (ASX:DDR), and they've been buying recently""",0.0981706231832504,0.0140219498425722,0.8878073692321777,0.13790643341585407
+DHG,2022-11-14,"""Earnings growth of 0.6% over 1 year hasn't been enough to translate into positive returns for Domain Holdings Australia (ASX:DHG) shareholders""",0.9208527207374572,0.044584147632122,0.034563161432743,0.31859317688867983
+DOW,2022-11-29,"""Shareholders in Downer EDI (ASX:DOW) are in the red if they invested three years ago""",0.0229627136141061,0.095297671854496,0.881739616394043,0.40129699325637896
+DOW,2022-11-11,"""Is Downer EDI Limited's (ASX:DOW) Stock On A Downtrend As A Result Of Its Poor Financials?""",0.0074746240861713,0.9667252898216248,0.0258001033216714,-0.31752936941548865
+EBO,2022-11-17,"""A Look At The Intrinsic Value Of EBOS Group Limited (NZSE:EBO)""",0.0549849197268486,0.0141369830816984,0.9308781027793884,0.171872386708435
+ELD,2022-11-16,"""Elders' (ASX:ELD) Upcoming Dividend Will Be Larger Than Last Year's""",0.2386290580034256,0.0134256463497877,0.7479453086853027,0.1348821234620564
+EML,2022-11-29,"""EML Payments Limited's (ASX:EML) Intrinsic Value Is Potentially 88% Above Its Share Price""",0.1526382267475128,0.0147308986634016,0.8326308727264404,0.3789466408280719
+EVN,2022-11-10,"""Evolution Mining (ASX:EVN) earnings and shareholder returns have been trending downwards for the last year, but the stock jumps 21% this past week""",0.026731489226222,0.9611048698425292,0.0121636185795068,-0.31093227749050173
+FBU,2022-11-28,"""Fletcher Building Limited's (NZSE:FBU) Stock Has Been Sliding But Fundamentals Look Strong: Is The Market Wrong?""",0.014554975554347,0.9538634419441224,0.0315815359354019,-0.6880670286890316
+FLT,2022-11-15,"""The Problem Flight Centre Is Having With Flights""",0.0218911040574312,0.740832507610321,0.237276405096054,-0.2614813703191501
+FLT,2022-11-07,"""Most Shareholders Will Probably Agree With Flight Centre Travel Group Limited's (ASX:FLT) CEO Compensation""",0.4884155094623565,0.0174474753439426,0.4941369891166687,0.07675614344907225
+FPH,2022-11-30,"""Fisher & Paykel Healthcare First Half 2023 Earnings: Beats Expectations""",0.915481448173523,0.0549677424132823,0.0295508634299039,1.3207605453057882
+FPH,2022-11-28,"""Edited Transcript of FPH.NZ earnings conference call or presentation 28-Nov-22 9:00pm GMT""",0.0201701652258634,0.0606675222516059,0.9191623330116272,0.33151773490195113
+FPH,2022-11-27,"""While institutions own 48% of Fisher & Paykel Healthcare Corporation Limited (NZSE:FPH), individual investors are its largest shareholders with 51% ownership""",0.0385917648673057,0.0140816578641533,0.9473265409469604,0.29430353716293156
+GMG,2022-11-10,"""Shareholders Will Most Likely Find Goodman Group's (ASX:GMG) CEO Compensation Acceptable""",0.0173476133495569,0.7650375366210938,0.2176148742437362,-0.24750146533571726
+GOZ,2022-11-18,"""Institutional owners may take dramatic actions as Growthpoint Properties Australia's (ASX:GOZ) recent 4.2% drop adds to one-year losses""",0.0142461992800235,0.9684154391288756,0.0173384323716163,-0.3669550593923848
+GPT,2022-11-12,"""Recent uptick might appease The GPT Group (ASX:GPT) institutional owners after losing 8.2% over the past year""",0.3442514836788177,0.6349769830703735,0.0207715425640344,-0.211960524201673
+HLS,2022-11-02,"""RingCentral Selected by Healius to Transform Telephony and Contact Center Platform Australia-wide""",0.4020118415355682,0.0068383296020329,0.5911498665809631,0.08690319911572875
+HUB,2022-11-09,"""HUB24 Limited's (ASX:HUB) CEO Compensation Is Looking A Bit Stretched At The Moment""",0.0301711224019527,0.9156267642974854,0.0542021319270134,-0.2920199181506559
+HVN,2022-11-09,"""Owning 41% in Harvey Norman Holdings Limited (ASX:HVN) means that insiders are heavily invested in the company's future""",0.0720851942896843,0.0143033051863312,0.9136114716529846,0.14568859145260002
+HVN,2022-11-17,"""Most Shareholders Will Probably Agree With Harvey Norman Holdings Limited's (ASX:HVN) CEO Compensation""",0.2355529069900512,0.0164263360202312,0.7480207681655884,0.1381105800514951
+IAG,2022-11-22,"""Insurance Australia Group's (ASX:IAG) earnings trajectory could turn positive as the stock lifts 3.2% this past week""",0.953830897808075,0.0220331624150276,0.0241358801722526,0.4142434955868714
+IEL,2022-11-28,"""IDP Education Limited's (ASX:IEL) Intrinsic Value Is Potentially 20% Below Its Share Price""",0.0134792402386665,0.8909621238708496,0.0955586209893226,-0.6426933188641866
+ILU,2022-11-04,"""Trade Alert: The Independent Non-Executive Chairman Of Iluka Resources Limited (ASX:ILU), Robert Cole, Has Just Spent AU$131k Buying 68% More Shares""",0.1100144162774086,0.0158378817141056,0.8741477131843567,0.13116657613826874
+ILU,2022-11-18,"""Does Iluka Resources (ASX:ILU) Deserve A Spot On Your Watchlist?""",0.1757531315088272,0.0108901243656873,0.8133567571640015,0.1540998651368022
+IPL,2022-11-30,"""Incitec Pivot Limited (ASX:IPL) Stock Goes Ex-Dividend In Just Four Days""",0.0381485223770141,0.5666634440422058,0.39518803358078,-0.817522540572751
+IPL,2022-11-25,"""New Forecasts: Here's What Analysts Think The Future Holds For Incitec Pivot Limited (ASX:IPL)""",0.0925070494413375,0.0135726733133196,0.8939203023910522,0.22969208080471404
+IPL,2022-11-24,"""Incitec Pivot (ASX:IPL) Is Increasing Its Dividend To A$0.17""",0.9495937824249268,0.0166995227336883,0.0337066128849983,0.4566580802544784
+JBH,2022-11-07,"""Are Robust Financials Driving The Recent Rally In JB Hi-Fi Limited's (ASX:JBH) Stock?""",0.479361355304718,0.0583671517670154,0.462271511554718,0.14892197816433192
+JBH,2022-11-21,"""JB Hi-Fi (ASX:JBH) shareholders have earned a 20% CAGR over the last five years""",0.851168155670166,0.0092265177518129,0.1396052986383438,0.3549646914632945
+LLC,2022-11-29,"""Shareholders in Lendlease Group (ASX:LLC) have lost 57%, as stock drops 3.2% this past week""",0.007955128327012,0.9747064113616944,0.0173384267836809,-0.8872160100660887
+LLC,2022-11-09,"""Lendlease Global Commercial REIT's (SGX:JYEU) last week's 8.2% decline must have disappointed individual investors who have a significant stake""",0.016577748581767,0.973681390285492,0.0097408583387732,-0.3105352213181992
+MCY,2022-11-06,"""Here's Why We Think Mercury NZ (NZSE:MCY) Is Well Worth Watching""",0.3453736305236816,0.0099580213427543,0.6446684002876282,0.0989332870841069
+MEZ,2022-11-25,"""Multiple insiders bought Meridian Energy Limited (NZSE:MEL) stock earlier this year, a positive sign for shareholders""",0.9394470453262328,0.0170903131365776,0.0434626266360282,0.4827802793373111
+MEZ,2022-11-10,"""Are Investors Undervaluing Meridian Energy Limited (NZSE:MEL) By 46%?""",0.7614253163337708,0.1508508771657943,0.0877238437533378,0.24633285625259116
+MFG,2022-11-29,"""Investors in Magellan Financial Group (ASX:MFG) have unfortunately lost 77% over the last three years""",0.0098458025604486,0.97247314453125,0.0176811013370752,-0.8851832029934936
+MIN,2022-11-24,"""Mineral Resources Limited (ASX:MIN) surges 4.8%; individual investors who own 47% shares profited along with institutions""",0.945994794368744,0.0292590409517288,0.0247461274266242,0.45492733284752057
+MP1,2022-11-28,"""Megaport Adds Cloud and Networking Sales Veteran Jeff Tworek to the Executive Team as Chief Revenue Officer""",0.1046651229262352,0.0253709182143211,0.8699639439582825,0.31377316692520457
+MP1,2022-11-16,"""Shareholders May Be More Conservative With Megaport Limited's (ASX:MP1) CEO Compensation For Now""",0.0622936338186264,0.1090712919831276,0.8286350965499878,0.14943346806240185
+MPL,2022-11-11,"""Australian police blame Russia-based hackers for attack on Medibank""",0.0109085589647293,0.9367617964744568,0.0523296184837818,-0.3076875981820424
+MPL,2022-11-11,"""Australia's Medibank says hacker's data dump could happen daily""",0.0127608375623822,0.8864182829856873,0.1008208617568016,-0.29115183123712396
+MPL,2022-11-12,"""Australia to consider banning paying of ransoms to cyber criminals""",0.0589036419987678,0.3388513922691345,0.6022449731826782,0.10051715543795976
+MPL,2022-11-08,"""Australia's Medibank warns that hacker may release more data""",0.0095603857189416,0.9467144012451172,0.0437252148985862,-0.29789124155315744
+MPL,2022-11-08,"""Australia's Medibank aware of hacker threat to leak data in 24 hours""",0.0247267670929431,0.8396542072296143,0.1356190294027328,-0.2642038971182831
+MPL,2022-11-12,"""Australia unveils joint cyber police taskforce to 'hunt down' hackers""",0.1972418129444122,0.0397008173167705,0.7630574107170105,0.1273574106493429
+NAB,2022-11-10,"""Australian banks ease mortgage norms as property market cools""",0.7704592943191528,0.1218467131257057,0.1076939851045608,0.24925548773426717
+NAB,2022-11-11,"""National Australia Bank (ASX:NAB) Will Pay A Larger Dividend Than Last Year At A$0.78""",0.7586532235145569,0.0143917929381132,0.2269549965858459,0.2491862809465279
+NEC,2022-11-09,"""Nine Entertainment Co. Holdings Limited's (ASX:NEC) latest 3.3% decline adds to one-year losses, institutional investors may consider drastic measures""",0.0189761705696582,0.9555327892303468,0.0254909712821245,-0.3047471063336633
+NHC,2022-11-23,"""Earnings growth outpaced the splendid 231% return delivered to New Hope (ASX:NHC) shareholders over the last year""",0.9566376209259032,0.0185829661786556,0.0247793849557638,0.43538454411686583
+NHC,2022-11-04,"""Are Strong Financial Prospects The Force That Is Driving The Momentum In New Hope Corporation Limited's ASX:NHC) Stock?""",0.2265387177467346,0.0101746506989002,0.7632866501808167,0.1145317833659441
+NHF,2022-11-11,"""Here's Why We Think nib holdings limited's (ASX:NHF) CEO Compensation Looks Fair for the time being""",0.4624354243278503,0.0206986162811517,0.5168659090995789,0.08488456230364841
+NST,2022-11-16,"""Northern Star Resources (ASX:NST) shareholders have earned a 14% CAGR over the last five years""",0.739741325378418,0.0121408645063638,0.2481178492307663,0.26680528541601817
+NUF,2022-11-19,"""Only Four Days Left To Cash In On Nufarm's (ASX:NUF) Dividend""",0.0236013103276491,0.0535421855747699,0.9228565096855164,0.17989760830967114
+NUF,2022-11-18,"""Nufarm's (ASX:NUF) Upcoming Dividend Will Be Larger Than Last Year's""",0.2884393036365509,0.0147093329578638,0.696851372718811,0.13202656965781098
+NUF,2022-11-17,"""Nufarm Full Year 2022 Earnings: Beats Expectations""",0.9232603907585144,0.0443990267813205,0.032340619713068,0.3409317856747028
+NWL,2022-11-28,"""54% of Netwealth Group Limited (ASX:NWL) is owned by insiders, and they've been buying recently""",0.0525689534842968,0.0264187436550855,0.9210123419761658,0.33218498459163615
+NXT,2022-11-11,"""We Think Shareholders May Consider Being More Generous With NEXTDC Limited's (ASX:NXT) CEO Compensation Package""",0.5867921710014343,0.1199560984969139,0.2932516932487488,0.1927370163972958
+ORA,2022-11-13,"""Is The Market Rewarding Orora Limited (ASX:ORA) With A Negative Sentiment As A Result Of Its Mixed Fundamentals?""",0.0118863498792052,0.9527298212051392,0.0353837758302688,-0.3235692191097312
+ORI,2022-11-07,"""An Intrinsic Calculation For Orica Limited (ASX:ORI) Suggests It's 46% Undervalued""",0.0331218279898166,0.9299958348274232,0.0368824303150177,-0.2889194505866043
+ORI,2022-11-10,"""Need To Know: Analysts Are Much More Bullish On Orica Limited (ASX:ORI) Revenues""",0.065788559615612,0.1273988336324691,0.806812584400177,0.13050816942413743
+OZL,2022-11-17,"""UPDATE 5-Australia's OZ Minerals backs BHP's improved $6.5 bln offer""",0.7109582424163818,0.2515814304351806,0.0374602749943733,0.2625351044552324
+OZL,2022-11-21,"""BHP Group (BHP) Sweetens Offer for OZ Minerals Limited""",0.7807230949401855,0.0139029491692781,0.205373927950859,0.32558681932304445
+OZL,2022-11-18,"""World's Top Miner Raises Offer For OZ Minerals, Close To Biggest Acquisition Since 2011""",0.7024700045585632,0.0201711039990186,0.2773588895797729,0.2661821691690853
+OZL,2022-11-17,"""Insiders who bought OZ Minerals Limited (ASX:OZL) last year must be regretting not buying more as market cap hits AU$8.8b""",0.1326175183057785,0.1391157656908035,0.728266716003418,0.13446329682274805
+PBH,2022-11-23,"""PointsBet Online and Mobile Sports Betting Now Live in Maryland""",0.0620615258812904,0.0112229716032743,0.9267154932022096,0.21088319845887185
+PME,2022-11-14,"""Visage Leads with CloudPACS at RSNA 2022""",0.6706860065460205,0.0119156725704669,0.3173983097076416,0.23204143367156255
+PME,2022-11-27,"""Visage Announces Support of Amazon HealthLake Imaging""",0.2725208401679992,0.0120908543467521,0.715388298034668,0.22224787067204127
+PMV,2022-11-22,"""Premier Investments (ASX:PMV) Is Experiencing Growth In Returns On Capital""",0.9563626646995544,0.0169955808669328,0.0266417544335126,0.4153430279773063
+PMV,2022-11-08,"""Premier Investments Full Year 2022 Earnings: Beats Expectations""",0.8590018153190613,0.0837723761796951,0.0572258234024047,0.27029177640613294
+PMV,2022-11-01,"""Premier Investments' (ASX:PMV) Shareholders Will Receive A Bigger Dividend Than Last Year""",0.8781808018684387,0.009063652716577,0.112755537033081,0.25573211243228944
+PNV,2022-11-11,"""PolyNovo Limited (ASX:PNV) Is About To Turn The Corner""",0.2004630416631698,0.0224989578127861,0.777038037776947,0.12761246692568085
+PPT,2022-11-09,"""UPDATE 2-Australia's Perpetual rejects improved $1.19 bln buyout offer""",0.896867036819458,0.01432625669986,0.0888067260384559,0.2860368972339778
+REA,2022-11-16,"""Is REA Group Limited's (ASX:REA) Latest Stock Performance A Reflection Of Its Financial Health?""",0.0256813485175371,0.655127227306366,0.3191914856433868,-0.23628720049655771
+REH,2022-11-22,"""Will Weakness in Reece Limited's (ASX:REH) Stock Prove Temporary Given Strong Fundamentals?""",0.1480454504489898,0.8008264899253845,0.0511280111968517,-0.34779452553654455
+RRL,2022-11-17,"""Shareholders May Find It Hard To Justify Increasing Regis Resources Limited's (ASX:RRL) CEO Compensation For Now""",0.1267107725143432,0.7088012099266052,0.1644879728555679,-0.26173857842004344
+RWC,2022-11-21,"""Is There An Opportunity With Reliance Worldwide Corporation Limited's (ASX:RWC) 49% Undervaluation?""",0.2770711779594421,0.0573636665940284,0.6655650734901428,0.13878109712302425
+RWC,2022-11-04,"""Independent Non-Executive Chairman William Crosby Just Bought 21% More Shares In Reliance Worldwide Corporation Limited (ASX:RWC)""",0.1203508675098419,0.010089349001646,0.8695597648620605,0.13047815075677033
+SDF,2022-11-09,"""The Co-Founder of Steadfast Group Limited (ASX:SDF), Robert Kelly, Just Bought 18% More Shares""",0.0624548383057117,0.0120191033929586,0.9255260229110718,0.14758853934559213
+SDF,2022-11-06,"""Those who invested in Steadfast Group (ASX:SDF) five years ago are up 107%""",0.9144107103347778,0.0103674316778779,0.0752218887209892,0.28065795462588244
+SEK,2022-11-16,"""Positive earnings growth hasn't been enough to get SEEK (ASX:SEK) shareholders a favorable return over the last year""",0.9517905712127686,0.0236027911305427,0.0246067326515913,0.34328588426338374
+SFR,2022-11-16,"""Following a 18% decline over last year, recent gains may please Sandfire Resources Limited (ASX:SFR) institutional owners""",0.8843438625335693,0.087889015674591,0.0277671478688716,0.3189596262294429
+SGM,2022-11-08,"""Sims Limited Releases 2022 Sustainability Reporting Suite""",0.0341251976788044,0.0227196030318737,0.9431551694869996,0.1483856504381078
+SGM,2022-11-30,"""Sims Limited Signs Global Agreement on Climate Policy Engagement""",0.68571537733078,0.0101817809045314,0.3041028380393982,0.9892781743364207
+SGP,2022-11-23,"""The past three years for Stockland (ASX:SGP) investors has not been profitable""",0.0891248509287834,0.0136361690238118,0.8972389101982117,0.20417551292958164
+SGR,2022-11-29,"""Australian regulator begins civil lawsuit against Star Entertainment""",0.0167440362274646,0.9029822945594788,0.0802736803889274,-0.821929905457547
+SGR,2022-11-06,"""Australia's Star Entertainment faces second class action suit over compliance""",0.0222604908049106,0.8760349750518799,0.1017045304179191,-0.26887937936420464
+SHL,2022-11-10,"""This Is Why We Think Sonic Healthcare Limited's (ASX:SHL) CEO Might Get A Pay Rise Approved By Shareholders""",0.9105269312858582,0.033708669245243,0.0557644590735435,0.2945695327790146
+SHL,2022-11-28,"""Could The Market Be Wrong About Sonic Healthcare Limited (ASX:SHL) Given Its Attractive Financial Prospects?""",0.0904368460178375,0.1748421639204025,0.7347210049629211,0.26499458757424044
+SOL,2022-11-04,"""Washington H. Soul Pattinson and Company Limited (ASX:SOL) Analysts Just Slashed This Year's Revenue Estimates By 14%""",0.0086236791685223,0.9738338589668274,0.0175424627959728,-0.2922491269647865
+SOL,2022-11-16,"""Washington H. Soul Pattinson (ASX:SOL) Has Announced That It Will Be Increasing Its Dividend To A$0.58""",0.9348485469818116,0.0149386720731854,0.0502128414809703,0.3371753406782282
+SPK,2022-11-20,"""Spark New Zealand (NZSE:SPK) Has More To Do To Multiply In Value Going Forward""",0.1545674502849578,0.0130389742553234,0.8323935866355896,0.16748991087987253
+SUL,2022-11-01,"""Super Retail Group (ASX:SUL) stock performs better than its underlying earnings growth over last five years""",0.9523328542709352,0.0271881092339754,0.0204789582639932,0.27732568514730893
+SVW,2022-11-27,"""Private companies account for 57% of Seven Group Holdings Limited's (ASX:SVW) ownership, while individual investors account for 29%""",0.0300472266972064,0.0174804553389549,0.9524723887443542,0.2959021846651553
+SVW,2022-11-02,"""The 6.8% return this week takes Seven Group Holdings' (ASX:SVW) shareholders five-year gains to 57%""",0.9188876152038574,0.0549742467701435,0.0261380914598703,0.2701659186726763
+TNE,2022-11-02,"""Many Would Be Envious Of Technology One's (ASX:TNE) Excellent Returns On Capital""",0.9250911474227904,0.0127515159547328,0.0621573776006698,0.27198984463839054
+TNE,2022-11-16,"""As Technology One Limited (ASX:TNE) hits AU$4.0b market cap, insiders may be dismayed about not purchasing higher quantities""",0.0132150501012802,0.9629634022712708,0.0238215159624815,-0.34731563125358156
+TWE,2022-11-23,"""Treasury Wine Estates (ASX:TWE) shareholders have endured a 23% loss from investing in the stock three years ago""",0.0151900211349129,0.9681857228279114,0.0166242737323045,-0.44064031178901175
+VEA,2022-11-05,"""Investors Should Be Encouraged By Viva Energy Group's (ASX:VEA) Returns On Capital""",0.8340024948120117,0.008167621679604,0.1578298658132553,0.25304726196084615
+VEA,2022-11-24,"""Viva Energy Group Limited (ASX:VEA) most popular amongst private companies who own 56% of the shares, institutions hold 25%""",0.0711607336997985,0.0088487779721617,0.9199905395507812,0.22121096484577898
+VUK,2022-11-21,"""Higher interest rates help Virgin Money UK post annual profit surge""",0.940054178237915,0.0323755331337451,0.0275702942162752,0.39203304201891237
+VUK,2022-11-23,"""Virgin Money UK Full Year 2022 Earnings: EPS Beats Expectations""",0.7503300905227661,0.1253822445869445,0.1242876574397087,0.34148994065614374
+VUK,2022-11-25,"""Virgin Money UK rises after bank buys back nearly a million of its own shares""",0.5740243196487427,0.2605538964271545,0.1654217392206192,0.2949901463474128
+WES,2022-11-09,"""The past year for Wesfarmers (ASX:WES) investors has not been profitable""",0.1357111632823944,0.012266187928617,0.852022647857666,0.13586736080219236
+WOW,2022-11-16,"""Estimating The Fair Value Of Woolworths Group Limited (ASX:WOW)""",0.054361306130886,0.0169039852917194,0.9287347197532654,0.16748512181117964
+WTC,2022-11-11,"""Institutions own 30% of WiseTech Global Limited (ASX:WTC) shares but private companies control 41% of the company""",0.0247491374611854,0.0239377543330192,0.9513131380081176,0.15623355673467676
+WTC,2022-11-16,"""This Is The Reason Why We Think WiseTech Global Limited's (ASX:WTC) CEO Deserves A Bump Up To Their Compensation""",0.2972313165664673,0.0164437890052795,0.6863248944282532,0.12376969020378528
+XRO,2022-11-22,"""Denver-based Xero names new CEO from Silicon Valley""",0.0939136296510696,0.0342429131269454,0.8718433976173401,0.18931838833449674
+XRO,2022-11-11,"""Xero First Half 2023 Earnings: Revenues Beat Expectations, EPS Lags""",0.8029102683067322,0.1758843660354614,0.021205423399806,0.26372289405990307
+XRO,2022-11-09,"""Xero announces CEO succession, Sukhinder Singh Cassidy appointed""",0.0259167067706584,0.078422874212265,0.8956604599952698,0.14282604245370234
