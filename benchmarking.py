@@ -140,7 +140,6 @@ print("Semi-deviation:", semidev)
 print("Maximum drawdown:", maximumDrawdown)
 print("Sharpe ratio:", sharpeRatio)
 print("Monthly portfolio value:", sharpePortfolio[1])
-print(sharpePortfolioDF)
 
 # Equal weighted portfolio performance
 equalPortfolio = getPortfolioValue(equalWeights) # [0] is daily value, [1] is monthly value
@@ -203,15 +202,15 @@ print("Monthly portfolio value:", marketIndex[1])
 labels = ["Oct 2022", "Nov 2022", "Dec 2022", "Jan", "Feb", "Mar", "Apr", "May","June", "July", "Aug", "Sep", "Oct"]
 index = [0, 21.5, 21.5, 21.5, 21.5, 21.5, 21.5, 21.5, 21.5, 21.5, 21.5, 21.5, 21.5]
 index = np.cumsum(index)
-x = np.cumsum(sharpePortfolioDF)
-y = np.cumsum(equalPortfolioDF)
-z = np.cumsum(marketIndexDF)
+x = (1 + sharpePortfolioDF).cumprod() - 1
+y = (1 + equalPortfolioDF).cumprod() - 1
+z = (1 + marketIndexDF).cumprod() - 1
 sentimentPort = pd.read_csv("sentiment_DVC.csv")
-sentimentPort = np.cumsum(sentimentPort)
+sentimentPort = (1 + sentimentPort).cumprod() - 1
 
 fig = plt.figure(figsize = (10, 10))
 plt.ylabel("Percent Change")
-plt.title("Cumulative Sum of Daily Percent Change")
+plt.title("Daily Cumulatve Returns")
 plt.plot(sentimentPort, label = "Sentiment Portfolio")
 plt.plot(x, label = "Maximum Sharpe Ratio Portfolio")
 plt.plot(y, label = "Equally Weighted Portfolio")
