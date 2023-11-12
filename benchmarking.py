@@ -210,7 +210,7 @@ sentimentPort = (1 + sentimentPort).cumprod() - 1
 
 fig = plt.figure(figsize = (10, 10))
 plt.ylabel("Percent Change")
-plt.title("Daily Cumulatve Returns")
+plt.title("Daily Cumulative Returns")
 plt.plot(sentimentPort, label = "Sentiment Portfolio")
 plt.plot(x, label = "Maximum Sharpe Ratio Portfolio")
 plt.plot(y, label = "Equally Weighted Portfolio")
